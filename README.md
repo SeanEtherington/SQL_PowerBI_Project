@@ -68,5 +68,5 @@ ORDER BY age_group;
 
 ## 5. Querying for Power Bi Insights  
 
--- The result sets from these queries were exported as CSV files and used as data sources in Power BI for deeper analysis and visualization.
+The result sets from these queries were exported as CSV files and used as data sources in Power BI for deeper analysis and visualization.
 
